@@ -1,6 +1,5 @@
 # Wild Boars
 `By Kristin Wickline`
----
 
 ## Geographic Range
 Wild boars (*Sus scrofa*) are a cosmopolitan species. They originated in Europe and Asia, but were widely introduced to North America and are considered an invasive species in the southeastern United States and California. They are common throughout Eurasia, and inhabit every continent except Antarctica. ([Chapman and Trani, 2007](https://animaldiversity.org/accounts/Sus_scrofa/#880B0B11-4354-11E3-8D47-002500F14F28); [Oliver and Leus, 2008](https://animaldiversity.org/accounts/Sus_scrofa/#9140DD7A-46FD-11E3-8BB5-002500F14F28); [Wood and Barrett, 1979](https://animaldiversity.org/accounts/Sus_scrofa/#51DEC57D-1980-11E3-95DA-002500F14F28))
@@ -21,3 +20,7 @@ Wild boars range from 153 to 240 cm in total length and weigh 66 to 272 kg as ad
 * **Range length**: 153 to 240 cm (*60.24 to 94.49 in*)
 * **Average basal metabolic rate**: 104.1500 W cm3.O2/g/hr
 * **Average basal metabolic rate**: 104.15 W
+
+---
+
+[Source](https://animaldiversity.org/accounts/Sus_scrofa/)
