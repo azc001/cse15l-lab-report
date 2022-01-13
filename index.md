@@ -5,7 +5,7 @@
 Wild boars (*Sus scrofa*) are a cosmopolitan species. They originated in Europe and Asia, but were widely introduced to North America and are considered an invasive species in the southeastern United States and California. They are common throughout Eurasia, and inhabit every continent except Antarctica. ([Chapman and Trani, 2007](https://animaldiversity.org/accounts/Sus_scrofa/#880B0B11-4354-11E3-8D47-002500F14F28); [Oliver and Leus, 2008](https://animaldiversity.org/accounts/Sus_scrofa/#9140DD7A-46FD-11E3-8BB5-002500F14F28); [Wood and Barrett, 1979](https://animaldiversity.org/accounts/Sus_scrofa/#51DEC57D-1980-11E3-95DA-002500F14F28))
 
 > **Biogeographic Regions**: nearctic  introduced  palearctic  native  oriental  introduced  ethiopian  introduced  neotropical  introduced  australian  introduced 
-
+>
 > **Other Geographic Terms**: cosmopolitan
 
 ![big pig](https://animaldiversity.org/collections/contributors/james_dowlinghealey/Guineahog6/large.jpg)
