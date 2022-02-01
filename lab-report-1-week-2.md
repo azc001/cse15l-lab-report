@@ -1,4 +1,4 @@
-# Week 2 Lab Report
+# Week 2 Lab Report 1
 `By Andrew Chen`
 
 This is a tutorial for incoming CSE 15L students and my future self on how to log into a course-specific account on `ieng6`.
@@ -64,7 +64,7 @@ Now that we've learned all the basics, we can combine the past commands used in 
 
 ![img10](images\week-2\lab-report-wk-2-10.png)
 
-Now, we can combine all these techniques in order to really optimize running operations remotely. For example, let's say we make a local edit to `WhereAmI.java` and want to copy it to the server and run it there (in our example, we add the line `System.out.println("this is a local edit");` to the file). Normally, you would need to run the following code in succession, life after line to copy it to the server, login, and then run it.
+Now, we can combine all these techniques in order to really optimize running operations remotely. For example, let's say we make a local edit to `WhereAmI.java` and want to copy it to the server and run it there (in our example, we add the line `System.out.println("this is a local edit");` to the file). Normally, you would need to run the following code in succession, line after line to copy it to the server, login, and then run it.
 
 ```
 scp WhereAmI.java cs15lwi22aek@ieng6.ucsd.edu:~/
