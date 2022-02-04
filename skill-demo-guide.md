@@ -32,16 +32,16 @@ public class SkillDemoTest {
 10. Create a folder called `libs`
 11. Drag and drop in `hamcrest-core-1.3` and `junit-4.13.2`
 12. Ctrl+Shift+P to open configure classpath, add the libs
-13. Open a new terminal and run `ssh cs15lwi22aek@ieng6.ucsd.edu`
-14. Run `git clone ` and copy and paste the html link from github at the end
-15. Run `cd skill-demo`
-16. Run `javac -cp ".;libs\junit-4.13.2.jar;libs\hamcrest-core-1.3.jar" SkillDemo.java SkillDemoTest.java`
-17. Run `java -cp ".;libs\junit-4.13.2.jar;libs\hamcrest-core-1.3.jar" org.junit.runner.JUnitCore SkillDemoTest`
-18. Succesfully get a failure
-19. Fix the code (change the expected to 4)
-20. Save and open Github desktop
-21. Commit to main and push origin
-22. Run `git pull`
-23. Run `javac -cp ".;libs\junit-4.13.2.jar;libs\hamcrest-core-1.3.jar" SkillDemo.java SkillDemoTest.java`
-24. Run `java -cp ".;libs\junit-4.13.2.jar;libs\hamcrest-core-1.3.jar" org.junit.runner.JUnitCore SkillDemoTest`
-25. Done!
+13. Comit to main and push origin
+14. Open a new terminal and run `ssh cs15lwi22aek@ieng6.ucsd.edu`
+15. Run `git clone ` and copy and paste the html link from github at the end
+16. Run `cd skill-demo`
+17. Run `javac -cp ".;libs\junit-4.13.2.jar;libs\hamcrest-core-1.3.jar" SkillDemo.java SkillDemoTest.java`
+18. Run `java -cp ".;libs\junit-4.13.2.jar;libs\hamcrest-core-1.3.jar" org.junit.runner.JUnitCore SkillDemoTest`
+19. Succesfully get a failure
+20. Fix the code (change the expected to 4)
+21. Save and open Github desktop
+22. Commit to main and push origin
+23. Run `git pull`
+24. Run `javac -cp ".;libs\junit-4.13.2.jar;libs\hamcrest-core-1.3.jar" SkillDemo.java SkillDemoTest.java`
+25. Run `java -cp ".;libs\junit-4.13.2.jar;libs\hamcrest-core-1.3.jar" org.junit.runner.JUnitCore SkillDemoTest`
