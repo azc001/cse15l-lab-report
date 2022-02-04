@@ -13,6 +13,11 @@ A checklist of instructions to make my skill demonstration go as smooth as possi
 7. Paste
 ```
 public class SkillDemo {
+	/** Returns the product of two integers
+	* @param num1 the first integer
+	* @param num2 the second integer
+	* @return the product
+	*/
 	public static int multiply (int num1, int num2) {
 		return num1 * num2;
 	}
@@ -21,6 +26,9 @@ public class SkillDemo {
 8. Create new file, `SkillDemoTest.java`
 9. Paste
 ```
+import static org.junit.Assert.*;
+import org.junit.*;
+
 public class SkillDemoTest {
 	@Test
 	public void multiplyTest() {
