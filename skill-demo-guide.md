@@ -30,11 +30,11 @@ import static org.junit.Assert.*;
 import org.junit.*;
 
 public class SkillDemoTest {
+	//Checks whether 2 times 2 equals 5
 	@Test
 	public void multiplyTest() {
 		assertEquals(5, SkillDemo.multiply(2, 2));
 	}
-
 }
 ```
 10. Create a folder called `libs`
@@ -44,12 +44,12 @@ public class SkillDemoTest {
 14. Open a new terminal and run `ssh cs15lwi22aek@ieng6.ucsd.edu`
 15. Run `git clone ` and copy and paste the html link from github at the end
 16. Run `cd skill-demo`
-17. Run `javac -cp ".;libs\junit-4.13.2.jar;libs\hamcrest-core-1.3.jar" SkillDemo.java SkillDemoTest.java`
-18. Run `java -cp ".;libs\junit-4.13.2.jar;libs\hamcrest-core-1.3.jar" org.junit.runner.JUnitCore SkillDemoTest`
+17. Run `javac -cp ".;.\libs\junit-4.13.2.jar;.\libs\hamcrest-core-1.3.jar" SkillDemo.java SkillDemoTest.java`
+18. Run `java -cp ".;.\libs\junit-4.13.2.jar;.\libs\hamcrest-core-1.3.jar" org.junit.runner.JUnitCore SkillDemoTest`
 19. Succesfully get a failure
 20. Fix the code (change the expected to 4)
 21. Save and open Github desktop
 22. Commit to main and push origin
 23. Run `git pull`
-24. Run `javac -cp ".;libs\junit-4.13.2.jar;libs\hamcrest-core-1.3.jar" SkillDemo.java SkillDemoTest.java`
-25. Run `java -cp ".;libs\junit-4.13.2.jar;libs\hamcrest-core-1.3.jar" org.junit.runner.JUnitCore SkillDemoTest`
+24. Run `javac -cp ".;.\libs\junit-4.13.2.jar;.\libs\hamcrest-core-1.3.jar" SkillDemo.java SkillDemoTest.java`
+25. Run `java -cp ".;.\libs\junit-4.13.2.jar;.\libs\hamcrest-core-1.3.jar" org.junit.runner.JUnitCore SkillDemoTest`
