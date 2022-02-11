@@ -9,3 +9,4 @@
 0. [Course Website](https://ucsd-cse15l-w22.github.io/)
 1. [Week 2 Lab Report](https://azc001.github.io/cse15l-lab-report/lab-report-1-week-2.html) 
 2. [Week 4 Lab Report](https://azc001.github.io/cse15l-lab-report/lab-report-2-week-4.html)
+3. [Week 6 Lab Report](https://azc001.github.io/cse15l-lab-report/lab-report-3-week-6.html)
